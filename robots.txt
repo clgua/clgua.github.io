@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://clgua.github.io/JTH/sitemap.JTH.gz
